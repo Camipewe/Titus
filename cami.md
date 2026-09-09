@@ -6,4 +6,4 @@ Here is a picture of me
 
 [See what I'm currently into →](currently.md)
 
-[Meet My Pets](pets.md)
+[Meet My Pets](Pets.md)
