@@ -1,16 +1,16 @@
 My dogs and cat 
 
 Cleo 
-![Cleo](cleo.jpg)
+![Cleo](Cleo.JPG)
 
 Roscoe
-![Roscoe](Roscoe.jpg)
+![Roscoe](Roscoe.JPG)
 
 Nico
 ## Nico
-![Nico](Nico.jpg)
+![Nico](Nico.JPG)
 
 Bill
 ## Bill
-![Bill](Bill.jpg)
+![Bill](Bill.JPG)
 
